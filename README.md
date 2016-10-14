@@ -13,5 +13,5 @@
 ### Credit
   * Code written with help from Udacity's "Programming Foundations with
 Python" 
-fresh_tomatoes.py written exclusively by the friendly folks at
+  * fresh_tomatoes.py written exclusively by the friendly folks at
 Udacity
