@@ -38,10 +38,3 @@ movies = [the_iron_giant, gladiator, tombstone, the_godfather, anchorman, hot_ro
 # Call the function from fresh_tomatoes
 fresh_tomatoes.open_movies_page(movies)
 
-
-#tombstone.show_trailer()
-#print(avatar.storyline)
-#avatar.show_trailer()
-
-
-
