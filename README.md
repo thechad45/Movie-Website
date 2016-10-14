@@ -1,8 +1,7 @@
-# Movie Trailer Website -- thechad45
+# Movie Website -- thechad45
 
 ### Getting started 
-  * Download ZIP for this repository  
-  * Unzip movie_trailer folder  
+  * Download ZIP or clone this repository    
   * Start Pyton IDLE  
   * Open and run entertainment_center.py  
 
